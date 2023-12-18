@@ -1,0 +1,28 @@
+ .logo {
+     background-color: black;
+     text-align: center;
+     padding: 0.5rem;
+ }
+
+ .header {
+     text-align: center;
+ }
+
+ .header nav {
+     background-color: rgb(0, 0, 0);
+     margin-top: 5px;
+     line-height: 40px;
+     text-align: start;
+ }
+
+ nav a {
+     text-decoration: none;
+     color: white;
+     margin-right: 30px;
+     margin-left: 10px;
+     padding: 5px;
+ }
+
+ a:hover {
+     background-color: gray;
+ }
